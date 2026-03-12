@@ -7,7 +7,7 @@
 ### Шаг 1. Клонировать проект
 
 ```bash
-git clone ### 
+git clone https://github.com/FGPy-cmpsc/Phys_M1.git 
 cd Phys4SemPhys/M1
 ```
 
